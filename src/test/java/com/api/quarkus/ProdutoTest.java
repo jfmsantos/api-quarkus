@@ -3,7 +3,6 @@ package com.api.quarkus;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 
-import com.api.quarkus.Produto;
 import com.github.database.rider.cdi.api.DBRider;
 import com.github.database.rider.core.api.dataset.DataSet;
 
