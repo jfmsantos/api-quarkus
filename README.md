@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 #### Tela documentação Swagger.
 
-<img src="/imagens/swagger.png">
+<img src="./src/imagens/swagger.png">
 
 </p>
 </details>
