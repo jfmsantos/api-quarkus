@@ -11,10 +11,11 @@ import org.hibernate.annotations.UpdateTimestamp;
 
 import io.quarkus.hibernate.orm.panache.PanacheEntity;
 import lombok.Data;
+import lombok.EqualsAndHashCode;
 
 @Entity
 @Table(name = "PRODUTO")
-
+@EqualsAndHashCode(callSuper=false)
 public @Data class Produto extends PanacheEntity {
 
 
