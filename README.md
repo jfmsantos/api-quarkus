@@ -2,7 +2,7 @@
 
 <br>
 💻 Projeto
-Projeto Projeto Estruturado a partir dos conceitos básicos para uma CRUD usando quarkus.
+Estruturado a partir dos conceitos básicos para um CRUD usando quarkus.
 </br>
 
 # Tecnologias
